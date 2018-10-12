@@ -1,2 +1,2 @@
-# Picture Glery
-## A picture galery created with HTML, CSS, JavaScript
+# Picture Gallery
+## A picture gallery created with HTML, CSS, JavaScript
